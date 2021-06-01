@@ -1,3 +1,6 @@
+# João Pedro Marcelino de Sousa
+# 2021
+
 from numpy import binary_repr as representacao_binaria
 from time import sleep
 
